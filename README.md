@@ -8,9 +8,7 @@ cycle for best efficiency, and sizing pipe for lowest total cost.
 
 **🔗 Live demo:** [thermo-piping-optimizer.streamlit.app](https://thermo-piping-optimizer.streamlit.app/) <!-- replace with your deployed URL -->
 
-![COP sensitivity heatmap](screenshots/cop_heatmap.png)
-![Economic pipe diameter chart](screenshots/economic_diameter.png)
-<!-- add screenshots/ folder with these two images, or update filenames -->
+
 
 ## What it does
 
